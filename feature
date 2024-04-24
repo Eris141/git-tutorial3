@@ -1,3 +1,3 @@
  
-conflic ver 2
+feature 1
 new
